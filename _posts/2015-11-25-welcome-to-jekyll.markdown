@@ -1,25 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-11-25 23:56:34
+title:  "Blog, 我来了"
+date:   2015-11-26 00:00:00
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+在女友的敦促下，终于写下第一篇文章了...
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+2015年11月26日凌晨，广州几次入冬失败之后，温度终于降下来了,可此时时刻，还是穿着背心脑袋空空地敲打着键盘，回想起毕业入行当程序员也已有一段时间，期间探索新事物耗去了我相当一部分时间，空闲的那些时间布置了Geek House，养了黑猫罗小黑，在此House内和朋友在一起有过很多快乐的时光，最近还加了飞镖盘，实足的酒吧feel，哦，对了，冰箱的啤酒需要补充存货了...
 
-Jekyll also offers powerful support for code snippets:
+夜已深，今天就到这里吧！今日歌曲推荐 Most of The Time -- Bob Dylan，送给那位还在等我第一篇博客的好友杜某，顺便纪念我逝去摩托车。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+2015.11.26 写于广州Geek House
