@@ -1,3 +1,35 @@
+// Index image
+.index-img {
+  padding: 10rem 6rem;
+  color: #fff;
+  text-align: center;
+  background-size: cover;
+  h1 a {
+    color: white;
+  }
+  h3 a {
+    color: white;
+  }
+}
+
+@media screen and (min-width: 64em) {
+  .index-img {
+    padding: 10rem 6rem;
+    h1 { font-size: 3.25rem; };
+    h3 { font-size: 1.5rem; } } }
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .index-img {
+    padding: 7rem 4rem; 
+    h1 { font-size: 3.0rem; };
+    h3 { font-size: 1.5rem; } } }
+
+@media screen and (max-width: 42em) {
+  .index-img {
+    padding: 2rem 1rem; 
+    h1 { font-size: 2.5rem; };
+    h3 { font-size: 1.0rem; } } }
+
 // Header text feature
 .call-out {
   @extend %padding-regular;

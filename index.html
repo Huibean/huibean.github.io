@@ -1,14 +1,13 @@
 ---
-layout: default
+layout: index
 ---
 
 <div class="home">
-  {% if site.theme.header_text %}
-  <div class="call-out" 
+  <div class="index-img" 
   style="background-image: url('{{ site.baseurl }}/{{ site.theme.header_text_feature_image }}')">
-    {{ site.theme.header_text }}
+    <h1> <a href="{{ site.baseurl }}/"> {{ site.theme.title }} </a></h1>
+    <h3><a href="https://github.com/{{ site.theme.github }}" target="_blank">github @{{ site.theme.github }}</a></h3>
   </div>
-  {% endif %}
 
   <div class="posts">
     {% for post in paginator.posts %}
