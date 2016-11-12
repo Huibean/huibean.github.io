@@ -22,7 +22,6 @@ github_username:  huibean
 
 # Build settings
 markdown: kramdown
-theme: maggie-s-farm
 gems:
   - jekyll-feed
 exclude:
